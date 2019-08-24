@@ -1,0 +1,17 @@
+/* 
+  NewsDetail.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+"VIEW_CONTROLLER_TITLE" = "Game Screen";
+"PLAYER_ONE_NAME" = "Player 1";
+"PLAYER_TWO_NAME" = "Player 2";
+"PLAYER_CPU" = "CPU";
+"PROMPT_SCREEN_LOOSE_MESSAGE" = "Player 1 Lose";
+"PROMPT_SCREEN_WIN_MESSAGE" = "Player 1 Win";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";
+"RESULT_LABEL" = "Wins the game!";
+"RESULT_DRAW_LABEL" = "It's a Draw";

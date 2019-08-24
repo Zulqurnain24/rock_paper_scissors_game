@@ -1,0 +1,13 @@
+/* 
+  CreditScreen.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"VIEW_CONTROLLER_TITLE" = "Credits Screen";
+"CREDITS_TITLE" = "This game is created by";
+"CREDITS_NAME" = "Mohammad Zulqurnain";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

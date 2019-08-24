@@ -1,0 +1,12 @@
+/* 
+  NewsDetail.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"NEWS_DETAIL_SECTION_HEADER_PRIMARY_TITLE" = "News";
+"NEWS_DETAIL_VIEW_CONTROLLER_TITLE" = "News Detail";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

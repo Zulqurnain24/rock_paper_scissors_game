@@ -1,0 +1,13 @@
+/* 
+  CreditScreen.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"VIEW_CONTROLLER_TITLE" = "Rules Screen";
+"RULES_SCREEN" = "Rules";
+"RULES_INSTRUCTIONS" = "1.Rock beats Scissor.\n 2.Scissor beats Paper.\n 3.Paper beats Rock";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";

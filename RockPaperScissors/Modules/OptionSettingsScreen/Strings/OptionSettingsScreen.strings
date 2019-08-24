@@ -1,0 +1,14 @@
+/* 
+  OptionSettingsScreen.strings
+ //  RockPaperScissors
+ //
+ //  Created by Mohammad Zulqarnain on 19/01/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+ //
+*/
+
+"START_BUTTON_TITLE" = "Start";
+"CREDIT_BUTTON_TITLE" = "Credits";
+"SCORE_BUTTON_TITLE" = "Score";
+"DATA_FETCH_ERROR" = "Failed to retrieve data. Please try again later.";
+"VIEW_CONROLLER_TITLE" = "Option Screen";

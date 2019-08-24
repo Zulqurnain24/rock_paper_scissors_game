@@ -1,0 +1,11 @@
+//
+//  GameResultScreen.string.swift
+//  RockPaperScissors
+//
+//  Created by Zulqurnain on 5/20/19.
+//  Copyright © 2019 Mohammad Zulqarnain. All rights reserved.
+//
+
+"PLAYER_1_WIN_TITLE" = "Player 1 wins";
+"PLAYER_2_WIN_TITLE" = "Player 2 wins";
+"DRAW_TITLE" = "Draw";
